@@ -1,0 +1,24 @@
+#Ignore all pickles
+*.pkl
+
+*.txt
+
+*.json
+
+
+#ignore nohup
+nohup.out
+notebook/nohup.out
+
+#ignore folders of scraped pages
+BF/
+Love_list/
+Scraped_alltime/
+
+#ignore scrap folder
+scrap/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
