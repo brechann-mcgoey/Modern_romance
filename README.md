@@ -1,7 +1,7 @@
 # Modern Romance
 
-Romance novels are a big business with more than a billion dollars in sales a year.  They account for at third of fiction titles sold in the USA. Romance readers are voracious, with almost half of them reading at least one book a week.The romance industry is also on the forefront of emerging technologies and trends in the literature world including eboks and self-publishing. The volume and speed of production of could allow publishers and authors to quickly capitalize on hot topics and themes.
-I have two main objectives, with the ultimate goal of giving authors and publishers predictive tools about how to better design and sell their books. 
+Romance novels are big business, with more than a billion dollars in sales a year.  They account for at third of fiction titles sold in the USA. Romance readers are voracious, with almost half of them reading at least one book a week. The romance industry is also on the forefront of emerging technologies and trends in the literature world including eboks and self-publishing. The volume and speed of production could allow publishers and authors to quickly capitalize on hot topics and themes.
+For this project I have two main objectives, with the ultimate goal of giving authors and publishers predictive tools about how to better design and sell their books. 
 My first objective is to investigate trends in themes and topics though time  and the second is to examine the relationships between reader engagement and sales.
 Goodreads is a literature focused social media website that allows consumers to rank and review books, find new recommendations and connect with other readers and authors. So far, I have scraped data on more than 10 000books, including more than a million consumer reviews and rankings.
 
